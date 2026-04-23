@@ -11,8 +11,8 @@ env/
 *.ipynb_checkpoints
 
 # Datos pesados — no subir al repo
-data/raw/*.csv
-data/processed/*.csv
+#data/raw/*.csv
+#data/processed/*.csv
 
 # OS
 .DS_Store
